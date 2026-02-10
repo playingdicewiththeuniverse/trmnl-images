@@ -9,7 +9,7 @@ Images modified for TRMNL 1 and 2 bit greyscale
 2-bit file format:
 `https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/2-bit/{{team_id}}.svg`
 
-Replace `team_id` with variable matching three character abbreviation of team name in uppercase (ex: VAN, MTL)
+Replace `team_id` with variable matching three character abbreviation of team name in uppercase (ex: VAN, MTL) to link to these, or copy the SVG source code and paste directly into your TRMNL plugins.
 
 | Team ID | Color | 1-Bit | 2-Bit |
 | --- | --- | --- | --- |
