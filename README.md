@@ -10,7 +10,7 @@ To reference the images hosted here on GitHub directly, use the format `{{base_u
 
 ## Hockey - NHL
 
-The full list can be seen [here](sports-nhl.md)
+[The full list](sports-nhl.md)
 
 Example
 
@@ -21,7 +21,7 @@ Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/tr
 
 ## Baseketball - NBA
 
-The full list can be seen [here](sports-nba.md)
+[The full list](sports-nba.md)
 
 Example
 
