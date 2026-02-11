@@ -14,9 +14,9 @@ The full list can be seen [here](sports-nhl.md)
 
 Example
 
-Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/color/VAN.svg' width='180'>
-2-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/2-bit/VAN.svg' width='180'>
-1-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/1-bit/VAN.svg' width='180'>
+Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/color/MTL.svg' width='180'>
+2-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/2-bit/MTL.svg' width='180'>
+1-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/1-bit/MTL.svg' width='180'>
 
 
 ## Baseketball - NBA
