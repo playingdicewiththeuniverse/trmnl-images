@@ -30,6 +30,17 @@ Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/tr
 1-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/1-bit/MIN.svg' width='180'>
 
 
+## Baseketball - WNBA
+
+[The full list](sports-wnba.md)
+
+Example
+
+Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/color/NY.svg' width='180'>
+2-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/2-bit/NY.svg' width='180'>
+1-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/1-bit/NY.svg' width='180'>
+
+
 ## Baseball - MLB
 
 Coming soon
