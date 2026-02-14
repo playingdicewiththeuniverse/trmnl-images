@@ -13,10 +13,18 @@ To reference the images hosted here on GitHub directly, use the format `{{base_u
 [The full list](sports-nhl.md)
 
 Example
-
-Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/color/MTL.svg' width='180'>
-2-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/2-bit/MTL.svg' width='180'>
-1-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/1-bit/MTL.svg' width='180'>
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/color/MTL.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/2-bit/MTL.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nhl/1-bit/MTL.svg' width='248'></td>
+  </tr>
+  <tr>
+    <td align='center'>Color</td>
+    <td align='center'>2-Bit</td>
+    <td align='center'>1-Bit</td>
+  </tr>
+</table>
 
 
 ## Baseketball - NBA
@@ -25,9 +33,19 @@ Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/tr
 
 Example
 
-Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/color/MIN.svg' width='180'>
-2-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/2-bit/MIN.svg' width='180'>
-1-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/1-bit/MIN.svg' width='180'>
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/color/MIN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/2-bit/MIN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nba/1-bit/MIN.svg' width='248'></td>
+  </tr>
+  <tr>
+    <td align='center'>Color</td>
+    <td align='center'>2-Bit</td>
+    <td align='center'>1-Bit</td>
+  </tr>
+</table>
+
 
 
 ## Baseketball - WNBA
@@ -36,9 +54,18 @@ Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/tr
 
 Example
 
-Color: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/color/NY.svg' width='180'>
-2-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/2-bit/NY.svg' width='180'>
-1-Bit: <img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/1-bit/NY.svg' width='180'>
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/color/NY.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/2-bit/NY.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/wnba/1-bit/NY.svg' width='248'></td>
+  </tr>
+  <tr>
+    <td align='center'>Color</td>
+    <td align='center'>2-Bit</td>
+    <td align='center'>1-Bit</td>
+  </tr>
+</table>
 
 
 ## Baseball - MLB
