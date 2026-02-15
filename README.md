@@ -70,7 +70,23 @@ Example
 
 ## Baseball - MLB
 
-Coming soon
+[The full list](sports-mlb.md)
+
+Example
+
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mlb/color/TOR.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mlb/2-bit/TOR.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mlb/1-bit/TOR.svg' width='248'></td>
+  </tr>
+  <tr>
+    <td align='center'>Color</td>
+    <td align='center'>2-Bit</td>
+    <td align='center'>1-Bit</td>
+  </tr>
+</table>
+
 
 ## Football (American) - NFL
 
