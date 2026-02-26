@@ -88,6 +88,26 @@ Example
 </table>
 
 
+## Football (Soccer) - MLS
+
+[The full list](sports-mls.md)
+
+Example
+
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mls/color/VAN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mls/2-bit/VAN.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/mls/1-bit/VAN.svg' width='248'></td>
+  </tr>
+  <tr>
+    <td align='center'>Color</td>
+    <td align='center'>2-Bit</td>
+    <td align='center'>1-Bit</td>
+  </tr>
+</table>
+
+
 ## Football (American) - NFL
 
 Coming soon
