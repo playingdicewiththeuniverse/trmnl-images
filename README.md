@@ -110,4 +110,19 @@ Example
 
 ## Football (American) - NFL
 
-Coming soon
+[The full list](sports-nfl.md)
+
+Example
+
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nfl/color/ARI.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nfl/2-bit/ARI.svg' width='248'></td>
+    <td><img src='https://raw.githubusercontent.com/playingdicewiththeuniverse/trmnl-images/refs/heads/main/sports/nfl/1-bit/ARI.svg' width='248'></td>
+  </tr>
+  <tr>
+    <td align='center'>Color</td>
+    <td align='center'>2-Bit</td>
+    <td align='center'>1-Bit</td>
+  </tr>
+</table>
